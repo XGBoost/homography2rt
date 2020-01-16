@@ -16,7 +16,7 @@ rng(777);
 debug = false;
 choose_points_option = false;
 threshold=0.3;
-pami_method = 1;  % 此处写pami对比实验的方法，对pami这篇文章有两个选项，1或者3
+pami_method = 3;  % 此处写pami对比实验的方法，对pami这篇文章有两个选项，1或者3
 %%%%%%%%%%%%%%%%%%%%%%%%实验添加的噪声设定%%%%%%%%%%%%%%
 noise = true;
 sigma = 0.05;

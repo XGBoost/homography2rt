@@ -13,7 +13,7 @@ clear;
 clc;
 close all;
 %rng(666);
-debug = true;
+debug = false;
 %%%%%%%%%%%%%%%%%%%%%%%%实验添加的噪声设定%%%%%%%%%%%%%%
 noise = true;
 sigma = 0.05;
